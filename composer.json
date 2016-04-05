@@ -1,7 +1,6 @@
 {
     "name": "hostinger/event-mail",
     "type": "library",
-    "version" : 0.5,
     "description": "Create formatted notifications",
     "license": "MIT",
     "authors": [
