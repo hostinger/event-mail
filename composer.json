@@ -1,16 +1,16 @@
 {
-    "name": "vaidas-lungis/mailer",
+    "name": "hostinger/event-mail",
     "type": "library",
+    "version" : 0.5,
     "description": "Create formatted notifications",
     "license": "MIT",
     "authors": [
         {
             "name": "vaidas-lungis",
-            "email": "vaidas.lungis+github@gmail.com"
+            "email": "vaidas@hostinger.com"
         }
     ],
     "require": {},
-    "minimum-stability": "dev",
     "autoload": {
         "psr-4": {"Mailer\\": "src/"}
     }
